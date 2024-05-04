@@ -12,12 +12,8 @@ Los principales objetivos de este proyecto incluyen:
 
 ## Estructura del Repositorio
 
-- `Cifrado_Afin.ipynb`: Un Jupyter Notebook que detalla la implementación y explicación del cifrado afín.
-- `DES.ipynb`: Notebook que describe la implementación del algoritmo DES.
-- `AES.ipynb`: Notebook dedicado a la explicación e implementación de AES.
-- `RSA.ipynb`: Un documento que ilustra la implementación y los principios detrás de RSA.
-- `Pruebas_Criptograficas.ipynb`: Notebook que contiene pruebas y validaciones para los algoritmos implementados.
-- `Documentacion/`: Directorio que contiene archivos adicionales de documentación y recursos.
+- `main.ipynb`: Un Jupyter Notebook que detalla la implementación y explicación de cada algoritmo criptográfico.
+- `codigos_ind/`: Directorio que contiene todos los códigos individuales de cada algoritmo criptográfico.
 
 ## Tecnologías Utilizadas
 
